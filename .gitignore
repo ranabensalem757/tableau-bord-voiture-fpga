@@ -1,0 +1,15 @@
+.Xil/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+vivado*.jou
+vivado*.log
+vivado*.backup
+vivado*.backup.jou
+vivado*.backup.log
+vivado_pid*.str
+hs_err_pid*
+projet electronique/
+
