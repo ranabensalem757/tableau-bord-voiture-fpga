@@ -62,7 +62,7 @@ Réaliser une UAL (Unité Arithmétique et Logique) capable d'exécuter un ensem
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/VOTRE_USERNAME/tableau-bord-voiture.git
+git clone https://github.com/ranabensalem757/tableau-bord-voiture.git
 ```
 
 2. Ouvrir Vivado
@@ -97,4 +97,4 @@ Chaque module dispose d'un testbench de simulation permettant de vérifier son c
 
 ## 📄 Licence
 
-MIT License — libre d'utilisation à des fins éducatives.
+MIT License 
